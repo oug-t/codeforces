@@ -1,0 +1,5 @@
+def solve
+  # :)
+end
+
+solve
